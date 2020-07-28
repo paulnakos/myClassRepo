@@ -12,8 +12,6 @@ namespace MyTestGitProject
         {
             Console.WriteLine("heyy;");
             string x = Console.ReadLine();
-
-
             Console.WriteLine(x);
 
         }
