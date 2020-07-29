@@ -1,0 +1,17 @@
+C:\Users\Nakos\source\repos\Calculations\TestCalculations\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Nakos\source\repos\Calculations\TestCalculations\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Nakos\source\repos\Calculations\TestCalculations\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Nakos\source\repos\Calculations\TestCalculations\bin\Debug\TestCalculations.dll
+C:\Users\Nakos\source\repos\Calculations\TestCalculations\bin\Debug\TestCalculations.pdb
+C:\Users\Nakos\source\repos\Calculations\TestCalculations\bin\Debug\Calculations.exe
+C:\Users\Nakos\source\repos\Calculations\TestCalculations\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Nakos\source\repos\Calculations\TestCalculations\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Nakos\source\repos\Calculations\TestCalculations\bin\Debug\Calculations.pdb
+C:\Users\Nakos\source\repos\Calculations\TestCalculations\bin\Debug\Calculations.exe.config
+C:\Users\Nakos\source\repos\Calculations\TestCalculations\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Nakos\source\repos\Calculations\TestCalculations\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Nakos\source\repos\Calculations\TestCalculations\obj\Debug\TestCalculations.csprojAssemblyReference.cache
+C:\Users\Nakos\source\repos\Calculations\TestCalculations\obj\Debug\TestCalculations.csproj.CoreCompileInputs.cache
+C:\Users\Nakos\source\repos\Calculations\TestCalculations\obj\Debug\TestCalculations.csproj.CopyComplete
+C:\Users\Nakos\source\repos\Calculations\TestCalculations\obj\Debug\TestCalculations.dll
+C:\Users\Nakos\source\repos\Calculations\TestCalculations\obj\Debug\TestCalculations.pdb
